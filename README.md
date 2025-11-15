@@ -1,2 +1,4 @@
 # cwiczenia3
-Repo na ćwiczenia
+
+To jest WERSJA A pierwszego zdania.
+
